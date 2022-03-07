@@ -1,0 +1,21 @@
+.items {
+  margin: 5px;
+}
+span,
+button {
+  margin: 5px;
+  font-size: 25px;
+  font-weight: 600;
+}
+button {
+  background-color: aqua;
+  color: brown;
+}
+span {
+  color: lawngreen;
+}
+.total {
+  color: mediumblue;
+  font-size: 28px;
+  font-weight: bold;
+}
