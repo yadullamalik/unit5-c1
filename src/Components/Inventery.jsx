@@ -22,7 +22,7 @@ export const Inventery = () => {
   };
   total = total + books + pens + notebooks + incpens;
   return (
-    <div>
+    <div className="box">
       <div className="items">
         <span>Books:</span>
         <button
